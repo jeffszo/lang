@@ -29,8 +29,13 @@ const linguagues = [
     'Befunge' , 
     'Piet', 
     'Ook!' , 
-    'ArnoldC' ,
-    'Lua'
+    'ArnoldC',
+    'Lua',
+    'Assembly',
+    'PowerShell',
+    'SQL',
+    'Fortran',
+    'Clojure'
 ]
 
 

@@ -1,4 +1,4 @@
-## Languague picker
+## Language picker
 
 <img src="./assets/image.png"/>
 <img src="./assets/image-states.png"/>
